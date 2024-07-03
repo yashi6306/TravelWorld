@@ -1,7 +1,119 @@
-<a href="https://star-history.com/#eraydmrcoglu/reactjs-tours-travels-booking&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=eraydmrcoglu/reactjs-tours-travels-booking&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=eraydmrcoglu/reactjs-tours-travels-booking&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=eraydmrcoglu/reactjs-tours-travels-booking&type=Timeline" />
-</picture>
-</a>
+
+
+
+---
+
+# Tour and Traveling
+
+## Project Overview
+
+Tour and Traveling is a mern-stack web application designed to help users discover and plan their next travel adventures. Whether you're looking for destination inspiration, travel tips, or booking accommodations, TravelWorld has you covered.
+
+## Authors
+   **Training project (Batch-2)**
+
+- **Aaqila Jamal**
+  
+- **Yashawi Dwivedi**
+
+- **Anshika Yadav**
+
+## Features
+
+- User authentication 
+- Destination listings
+- Search and filter
+- booking system
+- Responsive design
+
+## Technology Used
+
+- **Frontend:**
+  - React.js 
+  - React router
+  - CSS 
+  
+  
+  
+
+- **Backend:**
+  - Node.js
+  - Express.js
+
+- **Database:**
+  - MongoDB
+
+- **Authentication:**
+  - JWT for secure authentication
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js
+- npm or yarn
+- MongoDB
+- Firebase account
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   https://github.com/Aaqilajamal/tours-and-travelling
+   cd tours-and-travelling
+   https://github.com/yashi6306/TravelWorld
+   
+   ```
+
+2. Install the dependencies for both the client and server:
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
+   ```
+
+3. Set up environment variables:
+
+   Create a `.env` file in the `backend` directory and add your MongoDB URI and JWT secret:
+
+   ```plaintext
+   MONGODB_URI=your_mongodb_uri
+   JWT_SECRET=your_jwt_secret
+   ```
+
+   Create a `.env` file in the `frontend` directory and add your Firebase configuration:
+
+
+### Running the Application
+
+1. Start the backend server :
+   ```bash
+   cd backend
+   npm run dev
+   ```
+
+2. Start the frontend development server:
+   ```bash
+   cd frontend
+   npm run dev
+   ```
+
+3. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+
+## Contributing
+
+We welcome contributions to TravelWorld! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-branch`)
+3. Commit your changes (`git commit -am 'Add new feature'`)
+4. Push to the branch (`git push origin feature-branch`)
+5. Create a new Pull Request
+
+
+
+---
+
